@@ -3,6 +3,7 @@
 演示：[电路板][1]
 预览：
 [][5]
+
  [5]: http://www.yuuuha.com/diode/img/1559020280551.png
  [1]: http://www.yuuuha.com/diode
  [2]: https://www.xde.io/
