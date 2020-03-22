@@ -4,7 +4,7 @@
 
 <a href="https://www.xde.io/" target="_blank">仙岛驿站</a>发布的<a href="https://github.com/Seevil/cactus" target="_blank">cactus</a>自修魔改版。
 
-演示：<a href="http://www.yuuuha.com/diode" target="_blank">电路板</a>
+演示：<a href="https://callmebyour.name/" target="_blank">电路板</a>
 
 主要修改部分：
  * 更改原主题暗黑配色
